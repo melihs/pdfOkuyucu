@@ -1,0 +1,14 @@
+C:\Users\melih\Desktop\pdfReader\pdfReader\bin\Debug\pdfReader.exe.config
+C:\Users\melih\Desktop\pdfReader\pdfReader\bin\Debug\pdfReader.exe
+C:\Users\melih\Desktop\pdfReader\pdfReader\bin\Debug\pdfReader.pdb
+C:\Users\melih\Desktop\pdfReader\pdfReader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\melih\Desktop\pdfReader\pdfReader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.csprojResolveAssemblyReference.cache
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.csproj.ResolveComReference.cache
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.Form1.resources
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.Properties.Resources.resources
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.csproj.GenerateResource.Cache
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.exe
+C:\Users\melih\Desktop\pdfReader\pdfReader\obj\Debug\pdfReader.pdb
