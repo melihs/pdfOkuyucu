@@ -19,14 +19,14 @@ namespace pdfReader
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            axAcroPDF1.LoadFile("C:\\Users\\melih\\Desktop\\pdfload.pdf");
+            axAcroPDF1.LoadFile("C:\\Users\\melih\\Desktop\\pdfload.pdf");//program açılışında giriş pdf dosyasını açar
         }
 
         private void açToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog dosya = new OpenFileDialog();
-            dosya.Filter = "Pdf dosyaları |*.pdf";
-            dosya.ShowDialog();
+            dosya.Filter = "Pdf dosyaları |*.pdf";//yalnızca .pdf uzantılı dosyaları açmak için
+            dosya.ShowDialog();//dialog penceresini açmak için
 
             if (dosya.FileName != "")
             {
@@ -36,9 +36,10 @@ namespace pdfReader
 
         private void çıkışToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            axAcroPDF1.Dispose();
+            axAcroPDF1.Dispose();//adobe componenti unmanaged olduğu için heap alanı bu metot yardımıyla boşaltılır.
             this.Close();
         }
+
         
     }
 }
