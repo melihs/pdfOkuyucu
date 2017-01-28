@@ -18,3 +18,11 @@ C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\AxInterop.AcroPDFL
 C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.csproj.ResolveComReference.cache
 C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.exe
 C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.pdb
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\bin\Debug\pdfReader.exe
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\bin\Debug\pdfReader.pdb
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.csprojResolveAssemblyReference.cache
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.Form1.resources
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.Properties.Resources.resources
+C:\Users\melih\Documents\GitHub\pdfReader\pdfReader\obj\Debug\pdfReader.csproj.GenerateResource.Cache

@@ -19,7 +19,8 @@ namespace pdfReader
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            axAcroPDF1.LoadFile("C:\\Users\\melih\\Desktop\\pdfload.pdf");//program açılışında giriş pdf dosyasını açar
+            axAcroPDF1.LoadFile("C:\\Users\\melih\\Documents\\GitHub\\pdfload.pdf");
+            //program açılışında giriş pdf dosyasını açar
         }
 
         private void açToolStripMenuItem_Click(object sender, EventArgs e)
